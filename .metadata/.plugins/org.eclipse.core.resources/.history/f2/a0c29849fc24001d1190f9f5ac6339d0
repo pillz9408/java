@@ -1,0 +1,10 @@
+package thebrains.pim.service;
+
+public class MemberServiceimpl implements MemberService {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package kr.brains.api;
+
+public class CarExample {
+	// throw : Exception 유형의 예외가 발생하면 호출한 메소드로 전달
+	public static void main(String[] args) throws Exception{
+		Class clazz = Car.class;
+		System.out.println(clazz.getPackageName() + "." +clazz.getSimpleName());
+		Class clazz1 = Class.forName("kr.brains.api.Car");
+		System.out.println(clazz1.getPackageName() );
+		
+		Class clazz1 = null;
+		
+	}
+}

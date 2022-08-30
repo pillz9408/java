@@ -1,0 +1,26 @@
+package kr.brains064.same;
+
+import kr.brains064.other.*;
+
+//같은 패키지에 존재하는 클래스는 import 없이도 사용 가눙.
+
+public class SameExample {
+
+	public static void main(String[] args) {
+		
+		Same same = new Same();
+		System.out.println("Same Package");
+		//System.out.println(same.privateField);
+		System.out.println(same.defaultField);
+		System.out.println(same.protectedField);
+		System.out.println(same.publicField);
+		
+		Other other = new Other();
+		System.out.println("Other Package");
+		//System.out.println(other.privateField);
+		//System.out.println(other.defaultField);
+		//System.out.println(other.protectedField);
+		System.out.println(other.publicField );
+	}
+
+}

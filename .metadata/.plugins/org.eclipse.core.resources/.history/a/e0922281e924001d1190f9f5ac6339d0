@@ -1,0 +1,8 @@
+package thebrains.pim.controller;
+
+public class MemberController {
+	public void dispatch() { // dispatch : 시작의 의미, 명령을 가져옴
+		
+	}
+
+}

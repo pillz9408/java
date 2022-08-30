@@ -1,0 +1,10 @@
+package kr.brains064.other;
+
+public class OtherExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

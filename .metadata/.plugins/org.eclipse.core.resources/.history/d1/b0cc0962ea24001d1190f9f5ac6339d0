@@ -1,0 +1,16 @@
+package thebrains.pim.controller;
+
+public class MemberController {
+	// MVC(Model-View-Controller) 모델 기반 MVCS (MVC-Service)
+	//개인정보관리시스템(Personal Information System)
+	
+	//MemberView memberView = null;
+	//MemberService<Member> memberService = null;
+	public MemberController() {
+		
+	}
+	public void dispatch() { // dispatch : 시작의 의미, 명령을 가져옴
+		System.out.println("MemberController 의 dispatch() 호출 받음");
+	}
+
+}

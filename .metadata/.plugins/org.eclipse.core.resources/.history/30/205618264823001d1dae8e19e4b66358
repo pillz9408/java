@@ -1,0 +1,9 @@
+package kr.brains072;
+
+public class Triangle extends Polygon {
+	
+	public int evaluate() {
+		int area = super.width * super.height /2;
+		return area;
+	}		
+}

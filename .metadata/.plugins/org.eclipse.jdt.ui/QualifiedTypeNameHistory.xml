@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="kr.brains.Calculator"/>
+    <fullyQualifiedTypeName name="kr.brains002.Gugudan"/>
+    <fullyQualifiedTypeName name="kr.brains.ModCalculator"/>
+    <fullyQualifiedTypeName name="kr.brains063.Car"/>
+    <fullyQualifiedTypeName name="kr.brains064.other.Protected"/>
+    <fullyQualifiedTypeName name="kr.brains064.other.Other"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="thebrains.pim.view.TUIView"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="thebrains.pim.service.MemberService"/>
+    <fullyQualifiedTypeName name="thebrains.pim.service.MemberServiceimpl"/>
+    <fullyQualifiedTypeName name="thebrains.pim.controller.MemberController"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="thebrains.pim.repository.MemberRepository"/>
+    <fullyQualifiedTypeName name="thebrains.pim.repository.MemberRepositoryImpl"/>
+    <fullyQualifiedTypeName name="thebrains.pim.model.Member"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+</qualifiedTypeNameHistroy>

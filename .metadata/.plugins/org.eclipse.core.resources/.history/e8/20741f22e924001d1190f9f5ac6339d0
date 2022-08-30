@@ -1,0 +1,8 @@
+package thebrains.pim.controller;
+
+public class MemberController {
+	public void dispatch() {
+		
+	}
+
+}

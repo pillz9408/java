@@ -1,0 +1,9 @@
+package musicSearcher;
+
+public interface Music {
+	
+	String title();
+	void String title();
+	
+
+}

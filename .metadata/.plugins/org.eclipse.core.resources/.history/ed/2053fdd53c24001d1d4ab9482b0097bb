@@ -1,0 +1,9 @@
+package kr.brains.api;
+
+public class CarExample {
+	public static void main(String[] args) {
+		Class clazz = Car.class;
+		System.out.println(clazz.getPackageName() + "." +clazz.getSimpleName());
+		
+	}
+}

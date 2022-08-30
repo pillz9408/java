@@ -1,0 +1,29 @@
+package kr.brains.api;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
+public class CarExample {
+	// throw : Exception 유형의 예외가 발생하면 호출한 메소드로 전달
+	public static void main(String[] args) throws Exception{
+		
+		Calendar rightNow = Calendar.getInstance();
+		System.out.println(rightNow.get(Calendar.YEAR));
+		System.out.println(rightNow.get(Calendar.MONTH);
+		
+		
+		
+		Date date = new Date();
+		SimpleDateFormat sdf = new SimpleDateFormat("yy년 MM월 dd일 hh:mm:ss");
+		System.out.println(sdf.format(date));
+		
+		
+		Class clazz = Car.class;
+		System.out.println(clazz.getPackageName() + "." +clazz.getSimpleName());
+		Class clazz1 = Class.forName("kr.brains.api.Car");
+		System.out.println(clazz1.getPackageName() );
+		
+				
+	}
+}

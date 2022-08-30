@@ -1,0 +1,5 @@
+package musicSearcher;
+
+public interface Search {
+
+}

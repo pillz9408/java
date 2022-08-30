@@ -1,0 +1,40 @@
+package kr.brains063;
+
+public class Car {
+	String model;
+	private int gas;
+	
+	//Setter/Getter Method;
+	void setGas(int gas) {
+		this.gas = gas;	
+	}
+	int getGas() {
+		return gas;
+	}
+	boolean isLeftGas() { 
+		boolean isLeft =  true;
+		if(gas == 0) {
+			System.out.print("gas가 없습니다 \n");
+			isLeft = false;
+		}
+		else 
+			System.out.print("gas가 있습니다 \n");
+			return isLeft;
+		}
+	
+	void run() {
+		while(true) {
+			if(gas > 0) {
+				System.out.println("달립니다. gas 잔량 ("+ gas + ")");
+				gas -= 1;
+				}
+				else {
+					System.out.println("멈춥니다. gas 잔량 ("+ gas + ")");
+					break;
+				}
+			}
+		}
+		
+	}
+
+

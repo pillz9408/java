@@ -1,0 +1,6 @@
+package thebrains.pim.service;
+
+public class MemberFileReader<T> {
+	
+
+}
