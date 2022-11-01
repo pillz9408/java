@@ -1,7 +1,0 @@
-package kr.brains.interf;
-
-public interface Phone {
-	String phoneNumeber = "010-1111-2222"; //(public static final ) 이 생략됨
-	void call(String phoneNumber); // abstract 가 생략됨
-	void receive();
-}

@@ -1,9 +1,0 @@
-package kr.brains.interf;
-
-public interface CameraPhone extends Camera, Phone{
-// 인터페이스 다중 상속 Camera,Phone = 슈퍼 인터페이스, CameraPhone = 서브 인터페이스.
-	// 인터페이스 상속 = extends
-	// 인터페이스 구현 = implements
-	
-	
-}

@@ -1,6 +1,0 @@
-module chap06 {
-	requires java.se;
-	//java.se 모듈이 필요함을 컴파일러에게 ㄷ알라미.
-	// 컴파일 : 소스프로그램 (Source Code)를 목적프로그램(Object Code (-byte code))로 변역해주는 행위.
-	// 컴파일러 : 컴파일을 수행하는 프로그램
-}

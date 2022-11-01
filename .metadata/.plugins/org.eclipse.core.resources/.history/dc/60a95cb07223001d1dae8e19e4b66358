@@ -1,5 +1,0 @@
-package kr.brains.interf;
-
-public interface Timer {
-
-}

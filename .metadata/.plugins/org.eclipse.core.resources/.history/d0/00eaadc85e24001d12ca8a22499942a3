@@ -1,5 +1,0 @@
-package project.gs.guesssinger;
-
-public interface Music {
-
-}

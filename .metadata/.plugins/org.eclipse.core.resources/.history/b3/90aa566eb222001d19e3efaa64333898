@@ -1,5 +1,0 @@
-package kr.brains071;
-
-public class NewNumber extends Number {
-
-}
